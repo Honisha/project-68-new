@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+#img1{
+    height: 500px;
+    width: 500px
+}
+.my_nav_bar{
+  position:sticky;
+    top:0;
+    z-index: 99999;
+}
