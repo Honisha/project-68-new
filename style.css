@@ -10,3 +10,15 @@ body{
     top:0;
     z-index: 99999;
 }
+#map iframe{
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+}
+#vedio{
+    height: 500px;
+    width: 100%;
+}
+#details{
+    
+}
